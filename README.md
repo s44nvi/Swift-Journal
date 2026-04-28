@@ -185,6 +185,5 @@ MIT License — do whatever you want with it, just don't hold us liable.
 
 Made with 🌿 and Swift
 
-*If this helped you, leave a ⭐ — it means a lot.*
 
 </div>
