@@ -19,8 +19,6 @@
 
 No accounts. No feeds. No noise. Just you and your thoughts.
 
-> *"You don't have to explain yourself — just log it and let it go."*
-
 ---
 
 ## ✨ Features
